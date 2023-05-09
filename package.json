@@ -1,0 +1,27 @@
+{
+  "name": "project-cis_4339_project_11",
+  "version": "1.0.0",
+  "description": "Converting a text form into a web application based on Javascript/Node.js for the front-end and Node.js & MongoDB for the back-end. Created for Restoring Justice.",
+  "main": "intake_backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIS-FA21/project-cis_4339_project_11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CIS-FA21/project-cis_4339_project_11/issues"
+  },
+  "homepage": "https://github.com/CIS-FA21/project-cis_4339_project_11#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.9",
+    "nodemon": "^2.0.14",
+    "uuid": "^8.3.2"
+  }
+}
